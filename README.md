@@ -21,7 +21,7 @@ with a vague error or returning empty text.
 ## Install
 
 ```bash
-git clone https://github.com/0xCaFeBEef/free-youtube-transcript-mcp youtube-transcript-mcp
+git clone https://github.com/0xCaFeBEef/free-youtube-transcript-mcp.git youtube-transcript-mcp
 cd youtube-transcript-mcp
 pnpm install        # or: npm install
 pnpm build
